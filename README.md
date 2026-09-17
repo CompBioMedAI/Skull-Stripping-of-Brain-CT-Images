@@ -63,12 +63,17 @@ Supported formats: .png, .jpg, .jpeg, .bmp, .tif, .tiff
 🔬 Lesion analysis
 📊 Radiomics
 🤖 Machine learning and deep learning
+
 ⚠️ Notes
 The code processes 2D images.
 Threshold values may need adjustment for different CT datasets.
 Do not upload confidential or patient-identifiable medical images publicly.
 This code is for research and educational purposes only.
+
+
 👩‍💻 Author
+
 Minhazur Rahman
+
 Medical Image Analysis | Artificial Intelligence | Machine Learning
 
