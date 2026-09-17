@@ -7,13 +7,21 @@ The pipeline removes high-intensity skull regions and retains the inner brain re
 
 🔄 Processing Steps
 
+
 📥 Input CT Image
+
       ↓
+      
 🎚️ Thresholding
+
       ↓
+      
 🔗 Morphological Closing
+
       ↓
+      
 🔍 Contour Detection
+
       ↓
 🎭 Mask Generation
       ↓
