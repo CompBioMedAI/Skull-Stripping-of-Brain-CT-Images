@@ -3,6 +3,7 @@
 📌 Overview
 This repository contains a Python-based skull stripping method for brain CT images using OpenCV, NumPy, and Matplotlib.
 The pipeline removes high-intensity skull regions and retains the inner brain region for further medical image analysis.
+The implementation of the work is described in the paper: [Rahman, Minhazur, Bikash Upadhyay, and Rosy Sarmah. "Automatic Skull Stripping for CT Images of Traumatic Brain Injuries (TBI)." Journal of Transformative Technologies and Sustainable Development 9.1 (2025): 17.]9https://link.springer.com/article/10.1007/s41314-025-00086-1)
 
 ```markdown
 🔄 Processing Steps
