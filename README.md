@@ -80,7 +80,5 @@ Minhazur Rahman
 Medical Image Analysis | Artificial Intelligence | Machine Learning
 
 
-Paper: Automatic Skull Stripping for CT Images of Traumatic Brain Injuries (TBI)
-Authors: Minhazur Rahman, Bikash Upadhyay, Rosy Sarmah
-Journal: Journal of Transformative Technologies and Sustainable Development
+
 
