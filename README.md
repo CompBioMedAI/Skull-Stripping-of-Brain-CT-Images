@@ -28,7 +28,7 @@ The pipeline removes high-intensity skull regions and retains the inner brain re
 ✂️ Skull Stripping
       ↓
 💾 Save Output
-
+```
 📦 Requirements
 pip install opencv-python numpy matplotlib
 📂 Input and Output Paths
