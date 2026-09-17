@@ -9,9 +9,7 @@ The pipeline removes high-intensity skull regions and retains the inner brain re
 
 
 📥 Input CT Image
-
-      ↓
-      
+      ↓   
 🎚️ Thresholding
 
       ↓
