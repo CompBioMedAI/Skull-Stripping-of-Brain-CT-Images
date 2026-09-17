@@ -24,24 +24,39 @@ The pipeline removes high-intensity skull regions and retains the inner brain re
 💾 Save Output
 ```
 📦 Requirements
+
 pip install opencv-python numpy matplotlib
+
 📂 Input and Output Paths
+
 input_folder = 'File_location/inuput_image'
+
 output_folder = 'File_location/output_image'
+
 ⚠️ Change these paths according to your own computer.
 
 ⚙️ Main Parameters
 Parameter	    Value
+
 Intensity threshold	     220
+
 Morphological kernel	     20 × 20
+
 Minimum contour area	     500
+
 Distance threshold	     10
-Final intensity threshold	     240
+
+Final intensity threshold    240
+
 
 ▶️ Run the Code
+
 Save the script as skull_stripping.py, then run:
+
 python skull_stripping.py
+
 Supported formats: .png, .jpg, .jpeg, .bmp, .tif, .tiff
+
 🧪 Applications
 🩻 Traumatic Brain Injury analysis
 🧠 Brain image segmentation
